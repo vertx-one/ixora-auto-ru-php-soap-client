@@ -1,0 +1,10 @@
+# IDE
+/nbproject/
+/.idea
+
+# Composer data
+vendor
+composer.lock
+
+#My little secret
+code.txt
