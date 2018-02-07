@@ -1,2 +1,2 @@
-# ixora-auto-ru-php-soap-client
+# ixora-auto.ru SOAP Client
 PHP Client for ixora-auto.ru SOAP-service
