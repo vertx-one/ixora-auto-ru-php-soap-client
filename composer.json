@@ -1,6 +1,6 @@
 {
-  "name": "bxcraft/soap.client.ixora",
-  "description": "Basic ixora.ru soap client",
+  "name": "ixora-auto-ru/soap-client",
+  "description": "PHP Client for ixora-auto.ru SOAP-service",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
